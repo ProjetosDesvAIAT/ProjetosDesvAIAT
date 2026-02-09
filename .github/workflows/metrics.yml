@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -30,10 +30,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           filename: github-metrics.svg
-          
+
       - name: Commit and push metrics
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add github-metrics.svg
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub metrics" && git push)
+          git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "Update GitHub metrics" && git push)
