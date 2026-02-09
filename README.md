@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 👋 Olá, eu sou o ProjetosDesvAIAT!
+# 👋 Olá, eu sou o R.Júnior!
 
 ### Software Engineer | Full Stack Developer | AI Enthusiast
 
