@@ -6,11 +6,11 @@
 
 ### Software Engineer | Full Stack Developer | AI Enthusiast
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ProjetosDesvAIAT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProjetosDesvAIAT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProjetosDesvAIAT&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ProjetosDesvAIAT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetosDesvAIAT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
