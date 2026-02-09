@@ -17,7 +17,7 @@
 
 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis. Especializado em arquitetura de microserviços, desenvolvimento de APIs robustas e integração de inteligência artificial em aplicações modernas.
 
-- 🔭 Atualmente trabalhando em projetos de **mapas interativos** e **sistemas de gestão**
+- 🔭 Atualmente trabalhando em projetos de **Mapas interativos**, **LMS**, **Sistema de recompensas por Desempenho**, **Bots automatizados de atendiemnto** e **Sistemas de gestão**
 - 🌱 Aprendendo constantemente sobre **IA/ML** e **arquitetura de software**
 - 💡 Focado em **clean code**, **performance** e **escalabilidade**
 - 🎯 Objetivo: Construir software que impacta positivamente a vida das pessoas
