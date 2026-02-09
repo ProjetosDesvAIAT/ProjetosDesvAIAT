@@ -17,10 +17,17 @@
 
 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis. Especializado em arquitetura de microserviços, desenvolvimento de APIs robustas e integração de inteligência artificial em aplicações modernas.
 
-- 🔭 Atualmente trabalhando em projetos de **Mapas interativos**, **LMS**, **Sistema de recompensas por Desempenho**, **Bots automatizados de atendiemnto** e **Sistemas de gestão**
-- 🌱 Aprendendo constantemente sobre **IA/ML** e **arquitetura de software**
-- 💡 Focado em **clean code**, **performance** e **escalabilidade**
-- 🎯 Objetivo: Construir software que impacta positivamente a vida das pessoas
+Atuo no desenvolvimento de sistemas complexos que combinam tecnologias web modernas com inteligência artificial para resolver problemas reais. Minha experiência abrange desde a criação de plataformas geoespaciais interativas até sistemas de automação inteligentes e ferramentas de gestão empresarial.
+
+- 🔭 Atualmente trabalhando em projetos de:
+  - 🗺️ **Mapas interativos** com recursos geoespaciais avançados
+  - 📚 **LMS (Learning Management System)** para educação digital
+  - 🏆 **Sistema de recompensas por Desempenho** 
+  - 🤖 **Bots automatizados de atendimento** com IA
+  - 💼 **Sistemas de gestão** empresarial
+- 🌱 Aprendendo constantemente sobre **IA/ML**, **arquitetura de software** e **automação inteligente**
+- 💡 Focado em **clean code**, **performance**, **escalabilidade** e **experiência do usuário**
+- 🎯 Objetivo: Construir software que impacta positivamente a vida das pessoas e automatiza processos complexos
 
 ---
 
@@ -54,6 +61,13 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escalávei
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🤖 Automação & Bots
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Chatbot](https://img.shields.io/badge/Chatbot-00B2FF?style=for-the-badge&logo=chatbot&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF6600?style=for-the-badge&logo=zapier&logoColor=white)
 
 ### 🔧 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -92,6 +106,36 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escalávei
 
 ---
 
+### 🤖 Bot de Atendimento Automatizado
+> Sistema inteligente de atendimento automatizado com processamento de linguagem natural
+
+- 💬 **Atendimento 24/7** com respostas automatizadas e inteligentes
+- 🧠 **Inteligência Artificial** para compreensão de contexto e intenções
+- 🔄 **Integração Multi-plataforma** (WhatsApp, Telegram, Web)
+- 📊 **Analytics e Métricas** de atendimento em tempo real
+- 🎯 **Fluxos Personalizados** de conversação
+- 🔌 **API RESTful** para integração com outros sistemas
+- ⚡ **Respostas Rápidas** com cache inteligente
+- 📝 **Histórico de Conversas** e gestão de tickets
+
+**Stack**: Node.js, NestJS, TypeScript, AI/NLP, Redis, PostgreSQL
+
+---
+
+### 💝 Auxilio Amorzinho
+> Conversor de dados e informações para exportação por padrão XLSX, DOC, PDF e etc.
+
+- 📄 **Conversão Multi-formato** - Suporte para XLSX, DOC, PDF e outros formatos
+- 🔄 **Processamento de Dados** - Transformação e formatação inteligente de informações
+- 📊 **Exportação Profissional** - Geração de documentos com formatação otimizada
+- ⚡ **Performance** - Processamento rápido e eficiente de grandes volumes
+- 🎨 **Customização** - Templates e estilos personalizáveis
+- 💾 **Múltiplas Fontes** - Integração com diferentes origens de dados
+
+**Stack**: Node.js, JavaScript, Excel.js, PDF Libraries
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -110,25 +154,31 @@ Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escalávei
 const especialidades = {
   backend: {
     frameworks: ['NestJS', 'FastAPI', 'Express'],
-    patterns: ['Microservices', 'REST API', 'Clean Architecture'],
+    patterns: ['Microservices', 'REST API', 'Clean Architecture', 'Event-Driven'],
     databases: ['PostgreSQL', 'MySQL', 'Redis', 'PostGIS'],
-    performance: ['Caching', 'Query Optimization', 'Connection Pooling']
+    performance: ['Caching', 'Query Optimization', 'Connection Pooling', 'Load Balancing']
   },
   frontend: {
     frameworks: ['Next.js', 'React'],
-    styling: ['TailwindCSS', 'Responsive Design'],
+    styling: ['TailwindCSS', 'Responsive Design', 'Modern UI/UX'],
     maps: ['MapLibre GL', 'Geospatial Data'],
-    state: ['React Query', 'Context API']
+    state: ['React Query', 'Context API', 'State Management']
   },
   ai_ml: {
     frameworks: ['FastAPI', 'scikit-learn', 'Sentence Transformers'],
     features: ['Deduplication', 'Auto-tagging', 'Route Optimization'],
-    nlp: ['Embeddings', 'Semantic Search']
+    nlp: ['Embeddings', 'Semantic Search', 'Intent Recognition'],
+    bots: ['Conversational AI', 'Natural Language Processing', 'Automated Responses']
+  },
+  automation: {
+    bots: ['WhatsApp Bots', 'Telegram Bots', 'Web Chatbots'],
+    integration: ['Multi-platform Integration', 'Webhooks', 'API Connectors'],
+    workflows: ['Automated Workflows', 'Ticket Management', 'Customer Service']
   },
   devops: {
     containerization: ['Docker', 'Docker Compose'],
-    ci_cd: ['GitHub Actions'],
-    monitoring: ['Logging', 'Error Handling']
+    ci_cd: ['GitHub Actions', 'Automated Deployment'],
+    monitoring: ['Logging', 'Error Handling', 'Performance Monitoring']
   }
 }
 ```
@@ -141,6 +191,8 @@ const especialidades = {
 - ✅ **APIs RESTful** - Desenvolvimento de APIs robustas e bem documentadas
 - ✅ **Sistemas Geoespaciais** - Trabalho com PostGIS, mapas interativos e geolocalização
 - ✅ **Integração de IA** - Implementação de features de ML em produção
+- ✅ **Bots Inteligentes** - Desenvolvimento de sistemas de atendimento automatizado com NLP
+- ✅ **Automação de Processos** - Criação de fluxos automatizados e integração multi-plataforma
 - ✅ **Performance Optimization** - Cache strategies, query optimization, clustering
 - ✅ **Clean Code** - Código limpo, testável e bem documentado
 
