@@ -123,9 +123,16 @@ Atuo no desenvolvimento de sistemas complexos que combinam tecnologias web moder
 ---
 
 ### 💝 Auxilio Amorzinho
-> [Adicione aqui a descrição do seu projeto Auxilio Amorzinho]
+> Conversor de dados e informações para exportação por padrão XLSX, DOC, PDF e etc.
 
-**Stack**: [Adicione as tecnologias utilizadas]
+- 📄 **Conversão Multi-formato** - Suporte para XLSX, DOC, PDF e outros formatos
+- 🔄 **Processamento de Dados** - Transformação e formatação inteligente de informações
+- 📊 **Exportação Profissional** - Geração de documentos com formatação otimizada
+- ⚡ **Performance** - Processamento rápido e eficiente de grandes volumes
+- 🎨 **Customização** - Templates e estilos personalizáveis
+- 💾 **Múltiplas Fontes** - Integração com diferentes origens de dados
+
+**Stack**: Node.js, JavaScript, Excel.js, PDF Libraries
 
 ---
 
