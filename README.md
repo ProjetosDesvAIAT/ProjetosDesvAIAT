@@ -6,13 +6,6 @@
 
 ### Software Engineer | Full Stack Developer | AI Enthusiast
 
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProjetosDesvAIAT&theme=tokyonight&hide_border=true)
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProjetosDesvAIAT&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProjetosDesvAIAT&theme=tokyo-night&hide_border=true)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ProjetosDesvAIAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
-
 </div>
 
 ---
@@ -144,10 +137,18 @@ Atuo no desenvolvimento de sistemas complexos que combinam tecnologias web moder
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProjetosDesvAIAT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProjetosDesvAIAT&theme=tokyonight&hide_border=true)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProjetosDesvAIAT&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProjetosDesvAIAT&theme=tokyo-night&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Software+Engineer;Arquitetura+de+Microservi%C3%A7os+%7C+IA+%7C+Automacao;Next.js+%7C+NestJS+%7C+FastAPI+%7C+PostGIS)](https://git.io/typing-svg)
+![GitHub Metrics](https://raw.githubusercontent.com/ProjetosDesvAIAT/ProjetosDesvAIAT/main/github-metrics.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetosDesvAIAT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ProjetosDesvAIAT/ProjetosDesvAIAT/output/github-contribution-grid-snake.svg)
+
+---
 
 </div>
 
