@@ -138,7 +138,6 @@ Atuo no desenvolvimento de sistemas complexos que combinam tecnologias web moder
 
 <div align="center">
  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProjetosDesvAIAT&theme=tokyonight&hide_border=true)
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProjetosDesvAIAT&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProjetosDesvAIAT&theme=tokyo-night&hide_border=true)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Software+Engineer;Arquitetura+de+Microservi%C3%A7os+%7C+IA+%7C+Automacao;Next.js+%7C+NestJS+%7C+FastAPI+%7C+PostGIS)](https://git.io/typing-svg)
