@@ -2,8 +2,8 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+    - cron: "0 3 * * *"  # Runs daily at 3 AM UTC
+  workflow_dispatch:  # Allows manual trigger
 
 permissions:
   contents: write
@@ -12,6 +12,9 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -27,3 +30,15 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           filename: github-metrics.svg
+
+      - name: Commit and push metrics
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-metrics.svg || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update GitHub metrics"
+            git push
+          fi
