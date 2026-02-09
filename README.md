@@ -6,11 +6,12 @@
 
 ### Software Engineer | Full Stack Developer | AI Enthusiast
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProjetosDesvAIAT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProjetosDesvAIAT&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetosDesvAIAT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProjetosDesvAIAT&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProjetosDesvAIAT&theme=tokyo-night&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ProjetosDesvAIAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
 </div>
 
