@@ -25,6 +25,7 @@ Atuo no desenvolvimento de sistemas complexos que combinam tecnologias web moder
   - 🏆 **Sistema de recompensas por Desempenho** 
   - 🤖 **Bots automatizados de atendimento** com IA
   - 💼 **Sistemas de gestão** empresarial
+  - 📝 **Conversor de dados e estatisticas para doxumento personalizado em XLSX, DOCX, PDF e etc **
 - 🌱 Aprendendo constantemente sobre **IA/ML**, **arquitetura de software** e **automação inteligente**
 - 💡 Focado em **clean code**, **performance**, **escalabilidade** e **experiência do usuário**
 - 🎯 Objetivo: Construir software que impacta positivamente a vida das pessoas e automatiza processos complexos
